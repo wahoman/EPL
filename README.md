@@ -1,6 +1,10 @@
 # EPL 선수 몸값 예측하기
 
-![참고 이미지](path/to/image1.png) ![참고 이미지](path/to/image2.png)
+![참고 이미지 1](https://github.com/wahoman/EPL/blob/main/20240522142529.png) ![참고 이미지 2](https://github.com/wahoman/EPL/blob/main/20240522142515.png)
+
+![참고 이미지 3](https://github.com/wahoman/EPL/blob/main/20240522142614.png) ![참고 이미지 4](https://github.com/wahoman/EPL/blob/main/20240522142625.png)
+
+
 
 ## 프로젝트 개요
 
